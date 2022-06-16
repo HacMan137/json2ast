@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+json2ast/json2ast/__init__.py
+json2ast/json2ast/node_map.py
+json2ast/json2ast.egg-info/PKG-INFO
+json2ast/json2ast.egg-info/SOURCES.txt
+json2ast/json2ast.egg-info/dependency_links.txt
+json2ast/json2ast.egg-info/top_level.txt
