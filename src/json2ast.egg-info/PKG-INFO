@@ -2,11 +2,14 @@ Metadata-Version: 2.1
 Name: json2ast
 Version: 1.0.0
 Summary: The opposite of ast2json
+Home-page: https://github.com/HacMan137/json2ast
 Author: Adam Nichols
+Project-URL: Bug tracker, https://github.com/HacMan137/json2ast/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.10
+Description-Content-Type: text/markdown
 License-File: LICENSE
 
 # json2ast

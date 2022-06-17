@@ -8,7 +8,7 @@ NODE_MAP = {
         "node": ast.FormattedValue,
         "args": ["value, conversion, format_spec"]
     },
-    "JointedStr": {
+    "JoinedStr": {
         "node": ast.JoinedStr,
         "args": ["values"]
     },
